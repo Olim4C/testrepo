@@ -1,2 +1,2 @@
 # testrepo
-This repository will be use as a example and test for a course from Coursera named "Getting started with Git and GitHub".
+This repository will be used as an example and test for a course from Coursera named "Getting Started with Git and GitHub".
